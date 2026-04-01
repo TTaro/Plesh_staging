@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "one-third-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b5058786-b763-4ab8-b375-d96e3dbab791": {
+      "type": "section-grid",
+      "blocks": {
+        "template--21524360200470__b5058786-b763-4ab8-b375-d96e3dbab791-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "100",
+            "image": "shopify:\/\/shop_images\/Mas_calidad_Banner_Categoria.png",
+            "overlay_opacity": 45,
+            "text_position": "center",
+            "subheading": "",
+            "title": "EVERYDAY SNACK",
+            "text": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "template--21524360200470__b5058786-b763-4ab8-b375-d96e3dbab791-image-1"
+      ],
+      "settings": {
+        "desktop_height": "three-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "section_bg_color": "",
+        "gradient": "",
+        "enable_slider_mobile": true,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper--full-padded",
+        "add_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8d9a9dcc-b650-4240-8dbe-558bd59ba535": {
+      "type": "section-text",
+      "blocks": {
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>{{ collection.title }}<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ collection.title }}<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-heading-1",
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-text-1"
+      ],
+      "settings": {
+        "text_position": "left",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "settings": {
+        "subcollections": [],
+        "limit": 8,
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-light",
+        "padding_top": 30,
+        "padding_bottom": 14
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "show_breadcrumbs": false,
+        "enable_sorting": false,
+        "enable_filters": false,
+        "filters_layout": "open",
+        "show_more": true,
+        "filter_mode": "default",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_accordions_GCzndY": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_hqJQhk": {
+          "type": "text",
+          "settings": {
+            "title": "¿Cuándo debería disfrutar mi Plesh?",
+            "text": "<p>Fácil. Cuando te apetezca. Ideal para añadir un toque divertido a tu yogur, para acompañar tu café, de merienda en la oficina, después del gimnasio o en el merecido descanso en el sofá. <\/p>"
+          }
+        },
+        "text_zxFzfP": {
+          "type": "text",
+          "settings": {
+            "title": "¿Desde qué importe son gratis los envíos en Black Friday?",
+            "text": "<p>Todos los envíos en España (Península y Baleares) son gratuitos en Black Friday a excepción del trial pack que tiene un coste de envío de 2.90€.<\/p>"
+          }
+        },
+        "text_bnBErU": {
+          "type": "text",
+          "settings": {
+            "title": "¿Llegará mi pedido de Plesh antes de Navidad si compro ahora?",
+            "text": "<p>Tu pedido llegará antes de Navidad. En realidad, llegará de 24-48h.<\/p>"
+          }
+        },
+        "text_V3VM4F": {
+          "type": "text",
+          "settings": {
+            "title": "¿Es el mayor descuento del año?",
+            "text": "<p>Durante todo el año te damos un 100% de descuento en azúcares añadidos, pero este 20% Dto. solo durará hasta el 30 de noviembre.<\/p>"
+          }
+        },
+        "text_MFdRiX": {
+          "type": "text",
+          "settings": {
+            "title": "¿Puedo combinar diferentes sabores en los packs de oferta de Black Friday?",
+            "text": "<p>Puedes comprar el pack que más te guste. Para hacértelo fácil hemos lanzado el pack \"Meet the new normal\" con el que puedes disfrutar 5 uds de cada sabor.<\/p>"
+          }
+        },
+        "text_MjcJKm": {
+          "type": "text",
+          "settings": {
+            "title": "¿Qué tiene el nuevo pack Meet the new normal?",
+            "text": "<p>Se trata del pack para compartir (o no) 20 uds de nuestros 4 sabores: 5 uds Dark choco almond crunch bar, 5 uds Milk choco Caramel Crunch bar, 5 uds Milk choco salted caramel bites, 5 uds Dark choco sea salt bites). ¿y qué mas? Te lo enviamos en una caja muy top para que puedas regalar(te) también el placer de quedar muy bien.<\/p>"
+          }
+        },
+        "text_g6YdTJ": {
+          "type": "text",
+          "settings": {
+            "title": "¿Cuándo termina Black Friday?",
+            "text": "<p>Del 21 al 30 de noviembre 2025, todos los días son Black friday en nuestra Black week.<\/p>"
+          }
+        },
+        "text_nF8Uym": {
+          "type": "text",
+          "settings": {
+            "title": "¿Cómo puede ser  un snack dulce si no tiene azúcares añadido? ",
+            "text": "<p>Magia y ciencia. Para conseguir el sabor dulce, y la textura crujiente hemos desarrollado una mezcla única de fibras vegetales que llamamos ZeroUp.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_hqJQhk",
+        "text_zxFzfP",
+        "text_bnBErU",
+        "text_V3VM4F",
+        "text_MFdRiX",
+        "text_MjcJKm",
+        "text_g6YdTJ",
+        "text_nF8Uym"
+      ],
+      "disabled": true,
+      "name": "Accordions",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "line_thickness": "normal",
+        "title": "Preguntas frecuentes en Black Friday",
+        "type_style": "font-heading",
+        "heading_size": 120,
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "text_color": "text-dark",
+        "border_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "17491633673079c45d": {
+      "type": "apps",
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "b5058786-b763-4ab8-b375-d96e3dbab791",
+    "8d9a9dcc-b650-4240-8dbe-558bd59ba535",
+    "subcollections",
+    "main",
+    "section_accordions_GCzndY",
+    "17491633673079c45d"
+  ]
+}

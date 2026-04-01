@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "breadcrumbs",
+            "title_size": 100,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": true,
+            "enable_subscriptions_selectors": true,
+            "padding_bottom": 20
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "enable_full_width": false,
+            "padding_bottom": 20
+          }
+        },
+        "claims_UyD9Vc": {
+          "type": "claims",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "inventory_countdown",
+        "form",
+        "description",
+        "claims_UyD9Vc"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related"
+  ]
+}

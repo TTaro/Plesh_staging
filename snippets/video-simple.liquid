@@ -1,0 +1,19 @@
+{%- liquid
+    assign video_size = video_size | default: 'video-cover'
+    assign sources = video.sources
+    assign classes = classes
+-%}
+
+<div class="{{ classes }} background-size-cover">
+    <video
+        class="{{ video_size }} placeholder-svg-filled img-object-cover"
+        playsinline
+        autoplay
+        loop
+        muted
+    >
+        {% for source in sources %}
+            <source src="{{ source.url }}" type="{{ source.mime_type }}">
+        {% endfor %}
+    </video>
+</div>

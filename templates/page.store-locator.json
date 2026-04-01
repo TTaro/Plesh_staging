@@ -1,0 +1,221 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_APaVzy": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_6Pkhtw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image00024.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@AMETLLERORIGEN",
+            "button_link": "https:\/\/www.instagram.com\/ametllerorigen\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_BpExFe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A89C9B9A-AF60-41C6-BE64-F6963EDDD15C.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@LASIRENAES",
+            "button_link": "https:\/\/www.instagram.com\/lasirenaes\/",
+            "link_target_blank": true
+          }
+        },
+        "image_39CPpG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9095.heic",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@DRUNI_PERFUMERIAS",
+            "button_link": "https:\/\/www.instagram.com\/druni_perfumerias\/",
+            "link_target_blank": true
+          }
+        },
+        "image_wGH4wG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6688_SnapseedCopy.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@SYRACOFFEE",
+            "button_link": "https:\/\/www.instagram.com\/syracoffee\/",
+            "link_target_blank": true
+          }
+        },
+        "image_k37XeX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5184.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@CALFRUITOS",
+            "button_link": "https:\/\/www.instagram.com\/calfruitos\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_CzrBff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6629_a31472b2-e9c1-412d-9fa9-fccb653e41c7.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@BONPREUESCLAT",
+            "button_link": "https:\/\/www.instagram.com\/bonpreuesclat\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_EpWHaq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3093.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@INCAPTO_COFFEE",
+            "button_link": "https:\/\/www.instagram.com\/incapto_coffee\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_BE39yj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5548.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@BOTIGUESORIGO",
+            "button_link": "https:\/\/www.instagram.com\/botiguesorigo\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_qtmwE6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SaveClip.App_542389258_18025659572722233_2586982031007920280_n.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@PHILOSOPHEAT.BCN",
+            "button_link": "https:\/\/www.instagram.com\/philosopheat.bcn\/?hl=en#",
+            "link_target_blank": true
+          }
+        },
+        "image_Ja8ACf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3394.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@CASA.BARRE",
+            "button_link": "https:\/\/www.instagram.com\/casa.barre\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_dDV7Gn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@GOODFITBCN",
+            "button_link": "https:\/\/www.instagram.com\/goodfitbcn\/",
+            "link_target_blank": true
+          }
+        },
+        "image_AhV3qU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7018.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@AREAS.ES",
+            "button_link": "https:\/\/www.instagram.com\/areas.es\/",
+            "link_target_blank": true
+          }
+        },
+        "image_9h4bDp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5161.heic",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@FRUTASKCH",
+            "button_link": "https:\/\/www.instagram.com\/frutaskch\/",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_6Pkhtw",
+        "image_BpExFe",
+        "image_39CPpG",
+        "image_wGH4wG",
+        "image_k37XeX",
+        "image_CzrBff",
+        "image_EpWHaq",
+        "image_BE39yj",
+        "image_qtmwE6",
+        "image_Ja8ACf",
+        "image_dDV7Gn",
+        "image_AhV3qU",
+        "image_9h4bDp"
+      ],
+      "name": "Social gallery",
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "STORE LOCATOR",
+        "title": "ENCUENTRA TU PUNTO PLESH MÁS CERCANO",
+        "heading_size": 100,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1757002938bd864d0d": {
+      "type": "apps",
+      "blocks": {
+        "progus_store_locator_app_block_67qNcg": {
+          "type": "shopify:\/\/apps\/progus-store-locator\/blocks\/app-block\/d7896016-8cc9-45e0-860e-ba85ba3d5be4",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "progus_store_locator_app_block_67qNcg"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_social_gallery_APaVzy",
+    "1757002938bd864d0d"
+  ]
+}

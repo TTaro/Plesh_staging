@@ -1,0 +1,655 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/founders_header.png",
+            "image_mobile": "shopify:\/\/shop_images\/founders_9-16.png",
+            "overlay_opacity": 10,
+            "text_width": "normal",
+            "text_position": "center",
+            "text_alignment": "text-center",
+            "text_color": "text-light",
+            "subheading": "",
+            "title": "",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "text": "",
+            "stacked_button": false,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--large",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--large",
+            "video_text": "",
+            "video_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "slide_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_slide_height": "five-fifty-height-mobile",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "fade",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "heading_size": 120
+      }
+    },
+    "text": {
+      "type": "section-text",
+      "blocks": {
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>ABOUT US<\/p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Our Story<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un día, nos dimos cuenta de que comer sano sabe a castigo y nos obsesionamos con la idea de disfrutar sin sentirnos culpables. Así que hicimos lo que mejor sabemos: <strong>cuestionarlo TODO<\/strong>.<\/p>",
+            "size": 100
+          }
+        },
+        "text_GhpRNw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nos dimos el gustazo de romper barreras con creatividad, ciencia e innovación. Y nos lanzamos a trabajar en la máxima representación del placer: el chocolate.<\/p><p><\/p>",
+            "size": 100
+          }
+        },
+        "text_KT38Qe": {
+          "type": "text",
+          "settings": {
+            "text": "<p>El reto estaba claro, mantener la nostalgia del snack dulce de chocolate sin meternos 25 gramos de azúcar al cuerpo. Así que sacamos el azúcar de la ecuación y nos quedamos solo con lo bueno. Sabor, textura y mucho, mmmucho placer.<\/p>",
+            "size": 100
+          }
+        },
+        "text_TJKAcA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Probamos. Fallamos. Probamos de nuevo y volvimos a fallar. Fallamos sin probar y probamos sin saber si íbamos a fallar. Hasta que dimos con la receta perfecta.<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading",
+        "heading",
+        "text",
+        "text_GhpRNw",
+        "text_KT38Qe",
+        "text_TJKAcA"
+      ],
+      "settings": {
+        "text_position": "left",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 68
+      }
+    },
+    "909772ff-e663-4f4f-9da8-7ede957325bf": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_GFXmpY": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>PASTRY & SCIENCE DRIVEN<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_xiVyEL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Para nosotros, la innovación de hoy es la tradición de mañana. Por eso, juntamos lo mejor de la alta pastelería con lo más avanzado en foodtech y foodscience.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 20
+          }
+        },
+        "text_NUmzWa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Así fue como desarrollamos ZeroUp. Nuestro ingrediente secreto para hacerte salivar. Una mezcla de fibras vegetales que endulza y da la textura perfecta a PLESH. Sin azúcar ni pico glucémico. <\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_GFXmpY",
+        "text_xiVyEL",
+        "text_NUmzWa"
+      ],
+      "settings": {
+        "show_accordion_divider": false,
+        "increase_border_radius": false,
+        "section_height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_height": "full-height-mobile",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/IMG_1362.jpg",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_RjGMat": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_cjNaLK": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>JUST PLESHURE<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_y6AjhK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No vamos a decir que lo tenemos todo resuelto, porque sabemos que siempre hay algo más que cuestionar. Al fin y al cabo es lo que nos llevó a empezar con esto. Pero sí sabemos algo: el snack del futuro, sabe exactamente cómo te imaginas, pero sin los excesos de azúcar ni calorías vacías de los gigantes de la industria.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 20
+          }
+        },
+        "text_ApK3QE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Así, nace PLESH, el futuro del placer.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 20
+          }
+        },
+        "text_VpdV8c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Y esto, es solo el principio.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "heading_cjNaLK",
+        "text_y6AjhK",
+        "text_ApK3QE",
+        "text_VpdV8c"
+      ],
+      "settings": {
+        "show_accordion_divider": false,
+        "increase_border_radius": false,
+        "section_height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_height": "full-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/JUST_PLESHURE.jpg",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "columns": {
+      "type": "section-columns",
+      "blocks": {
+        "column-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "PASTRY & SCIENCE",
+            "text": "",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "column-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "Add a title or tagline",
+            "text": "<p>Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_text": "",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--text",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 2,
+        "columns_mobile": "2",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 0.8,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "f9132c5c-9f15-4676-8086-613d0304f488": {
+      "type": "section-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "products_layout": "carousel",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "<p>Best Sellers<\/p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "<p>Use this text to share information about your collection with your customers.<\/p>",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--large",
+        "bg_color": "",
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5": {
+      "type": "section-icons-row",
+      "blocks": {
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": "<p>on all order over $99<\/p>"
+          }
+        },
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "check",
+            "title": "Free Returns",
+            "text": "<p>within 30 days of purchase<\/p>"
+          }
+        },
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "title": "1% Donated Annually",
+            "text": "<p>to forest conservation<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-0",
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-1",
+        "template--18952593965377__51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5-1683134998a2f033f1-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 30,
+        "show_vertical_borders": true,
+        "show_top_border": true,
+        "show_bottom_border": true,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--small",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_xBVjyd": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_c6VwjW": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/6c324e3712c7469e90e4278cd8a4a0a7.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_hj3xBU": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/JAMES.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.tiktok.com\/@james_folch\/video\/7499129646072581398?q=JAMES%20FOLCH&t=1749028593777",
+            "link_target_blank": true
+          }
+        },
+        "image_m3V6rz": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/FOODICHIII.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.tiktok.com\/@foodichiiii\/video\/7494992705328549142",
+            "link_target_blank": true
+          }
+        },
+        "image_Cj3yj3": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/EYOUPLESH.MP4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DJhlT8ttLUp\/?img_index=6",
+            "link_target_blank": true
+          }
+        },
+        "image_eb76N6": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/15ddb84328a648c8974cc57d4208216d.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_j4MYBN": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/df5e2dea067c4a39bed661d3fa63ed8b.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_9Bz3nc": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/96fc5da1d5e64eb98a951b446e5fae3f.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_cUdhPq": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/6b6ca84636be4b4e9269c3b1cc0b2ba8.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_ydU8tC": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/cfb4704f6c564c95944c976f7cd5cd83.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_L8paqw": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/PLESH_TASTERBOX_VERT_04_SINMUSICA.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DI9mQy3NTah\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "link_target_blank": true
+          }
+        },
+        "image_fkNniq": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/eca3348df03e440399c5604549753352.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_MGzrwp": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/f661e5f256414cdab37350f561e05a59.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_NbRAfG": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/7a1181c4b141450fa84eff557d4a70de.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_VCFXNK": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/0111ad16738f4a37aa5ffa7c96685f39.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@MYPLESH",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_JaUbxY": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/db8d3cc9c05e4e748d054bcbfe2c0cb8.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@MYPLESH",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_TANeEL": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/d3e7c416af4d4ad8b0447b8a545249b3.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_UQrwQh": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/fc451294978e420eaa073f2fa217191f.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_c6VwjW",
+        "image_hj3xBU",
+        "image_m3V6rz",
+        "image_Cj3yj3",
+        "image_eb76N6",
+        "image_j4MYBN",
+        "image_9Bz3nc",
+        "image_cUdhPq",
+        "image_ydU8tC",
+        "image_L8paqw",
+        "image_fkNniq",
+        "image_MGzrwp",
+        "image_NbRAfG",
+        "image_VCFXNK",
+        "image_JaUbxY",
+        "image_TANeEL",
+        "image_UQrwQh"
+      ],
+      "disabled": true,
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "",
+        "title": "PLESH FRIENDS",
+        "heading_size": 120,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "text",
+    "909772ff-e663-4f4f-9da8-7ede957325bf",
+    "section_image_with_text_RjGMat",
+    "columns",
+    "f9132c5c-9f15-4676-8086-613d0304f488",
+    "51e7d4e9-f6b0-466d-bd09-84d7da4cdcb5",
+    "main",
+    "section_social_gallery_xBVjyd"
+  ]
+}

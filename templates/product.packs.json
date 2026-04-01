@@ -1,0 +1,521 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "collection",
+            "title_size": 150,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "judge_me_reviews_preview_badge_Wa49iL": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "inventory_countdown": {
+          "type": "inventory_countdown",
+          "settings": {
+            "max_inventory": 10,
+            "hide_inventory_count": true,
+            "padding_bottom": 20
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_labels": true,
+            "show_quantity": true,
+            "show_payment_button": false,
+            "enable_subscriptions_selectors": false,
+            "padding_bottom": 20
+          }
+        },
+        "joy_subscription_subscription_widget_hqqFhX": {
+          "type": "shopify:\/\/apps\/joy-subscription-app\/blocks\/subscription-widget\/6aa30d9c-ff0b-4f29-a82d-a633d8e04b9a",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "enable_full_width": false,
+            "padding_bottom": 20
+          }
+        },
+        "claims_RzkRmm": {
+          "type": "claims",
+          "settings": {}
+        },
+        "nutritional_table_Dn9Vww": {
+          "type": "nutritional-table",
+          "settings": {}
+        },
+        "icon_row_gpVXrL": {
+          "type": "icon_row",
+          "disabled": true,
+          "settings": {
+            "icon_name_1": "truck",
+            "icon_color_1": "",
+            "icon_width_1": 20,
+            "icon_text_1": "Free Shipping",
+            "icon_name_2": "frozen",
+            "icon_color_2": "",
+            "icon_width_2": 20,
+            "icon_text_2": "Cold Delivery",
+            "icon_name_3": "package",
+            "icon_color_3": "",
+            "icon_width_3": 20,
+            "icon_text_3": "Envío 24-48h",
+            "icon_name_4": "none",
+            "icon_color_4": "",
+            "icon_width_4": 20,
+            "icon_text_4": "",
+            "alignment": "center",
+            "bg_color": "#ffffff",
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_Wa49iL",
+        "inventory_countdown",
+        "form",
+        "joy_subscription_subscription_widget_hqqFhX",
+        "description",
+        "claims_RzkRmm",
+        "nutritional_table_Dn9Vww",
+        "icon_row_gpVXrL"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "large",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_BdjeAP": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_bAbDpk": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": ""
+          }
+        },
+        "text_eL3hWb": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "ENVÍO 24-48H",
+            "text": ""
+          }
+        },
+        "text_iiKUNm": {
+          "type": "text",
+          "settings": {
+            "icon_name": "calendar",
+            "title": "CADUCIDAD MIN. 6 MESES",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_bAbDpk",
+        "text_eL3hWb",
+        "text_iiKUNm"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": true,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "layout_mobile": "grid",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "section_accordions_with_images_GJFhKE": {
+      "type": "section-accordions-with-images",
+      "blocks": {
+        "text_AeRGdN": {
+          "type": "text",
+          "settings": {
+            "title": "¿PLESH es gluten-free?",
+            "text": "<p>Si! Todos nuestros productos son gluten-free. Lo que significa que contienen menos de 20 ppm de gluten, tal y como exige la normativa.<\/p><p>En nuestros productos, verás la indicación “puede contener trazas”, pero eso no significa que lleve gluten, sino que alguno de los ingredientes podría haber estado en contacto con cereales que sí lo contienen.<\/p>",
+            "icon_width": 25,
+            "icon_position": "inline-left"
+          }
+        },
+        "text_H3ga4Q": {
+          "type": "text",
+          "settings": {
+            "title": "¿PLESH es apto para veganos?",
+            "text": "<p>Nuestros bites y barritas de choco negro son 100% veganos mientras que las barritas y los bites de choco-leche son vegetarianos.<\/p>",
+            "icon_width": 25,
+            "icon_position": "inline-left"
+          }
+        },
+        "text_hXymBw": {
+          "type": "text",
+          "settings": {
+            "title": "¿Es PLESH apto para personas con intolerancia a la lactosa?",
+            "text": "<p>La barrita y los bites de choco-negro si son aptos para personas con intolerancia a la lactosa.<\/p>",
+            "icon_width": 25,
+            "icon_position": "inline-left"
+          }
+        },
+        "text_fDA6D7": {
+          "type": "text",
+          "settings": {
+            "title": "¿Es apto para diabéticos?",
+            "text": "<p>En principio sí, pero cada cuerpo es un mundo. Pregunta a tu médico antes de acabarte toda la caja.<\/p>",
+            "icon_width": 25,
+            "icon_position": "inline-left"
+          }
+        }
+      },
+      "block_order": [
+        "text_AeRGdN",
+        "text_H3ga4Q",
+        "text_hXymBw",
+        "text_fDA6D7"
+      ],
+      "name": "Accordions with Images",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": true,
+        "line_thickness": "normal",
+        "content_alignment": "text-center",
+        "title": "",
+        "type_style": "font-heading",
+        "heading_size": 100,
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#ffffff",
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "text_color": "text-dark",
+        "border_color": "#0b0b0b",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_product_compare_ejMy3f": {
+      "type": "section-product-compare",
+      "name": "Product Compare",
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_UYRPxx": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_aUgGFq": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/NAZIKONE.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_geFLkT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3189.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_mUDT4t": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/ANUKA.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_X6VerW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3174.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_fW9bNM": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/IMG_3168.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_6JCtay": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3173.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_3zdPHA": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/RITA.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_MKYw8W": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/IMG_3165.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_Kdzpt8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3169.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_97Pcce": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/df5e2dea067c4a39bed661d3fa63ed8b.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_gPhhb8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3167.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_WPp8hG": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/6b6ca84636be4b4e9269c3b1cc0b2ba8.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_aUgGFq",
+        "image_geFLkT",
+        "image_mUDT4t",
+        "image_X6VerW",
+        "image_fW9bNM",
+        "image_6JCtay",
+        "image_3zdPHA",
+        "image_MKYw8W",
+        "image_Kdzpt8",
+        "image_97Pcce",
+        "image_gPhhb8",
+        "image_WPp8hG"
+      ],
+      "name": "Social gallery",
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "TAG US ON @MYPLESH",
+        "title": "THIS SNACK DESERVES A CLOSE-UP",
+        "heading_size": 70,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "17489667307fd95858": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_xrL9Qt": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_xrL9Qt"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_collection_T6jinV": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "productos",
+        "products_layout": "grid",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_icons_row_BdjeAP",
+    "section_accordions_with_images_GJFhKE",
+    "section_product_compare_ejMy3f",
+    "related",
+    "section_social_gallery_UYRPxx",
+    "17489667307fd95858",
+    "section_collection_T6jinV"
+  ]
+}

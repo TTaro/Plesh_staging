@@ -1,0 +1,23 @@
+{% capture powered_by_link %} {{ 'footer.powered_by' | t }} <a href="https://www.shopify.com/" rel="noopener" target="_blank" rel="nofollow">Shopify</a>.{% endcapture %}
+{%- assign bottom_menu = section.settings.bottom_menu -%}
+
+<div class="footer-copyright">
+  <div class="footer-copyright__content">
+    <span class="footer-copyright__copy footer-copyright__link">{{ shop.name | link_to: routes.root_url }} &copy; {{ 'now' | date: "%Y" }}</span>
+
+    {% comment %}<span class="footer-copyright__powered">{{ powered_by_link }}</span>{% endcomment %}
+
+    {%- for policy in shop.policies -%}
+      {%- if policy != blank -%}
+        <span class="footer-copyright__link">|</span><a class="footer-copyright__link" href="{{ policy.url }}" target="_blank">{{ policy.title | escape }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+
+
+    {%- if bottom_menu != blank and linklists[bottom_menu].links.size > 0 -%}
+      {% for link in linklists[bottom_menu].links %}
+        <span class="footer-copyright__link">|</span><a class="footer-copyright__link" href="{{ link.url }}" target="_blank">{{ link.title | strip_html | escape }}</a>
+      {% endfor %}
+    {%- endif -%}
+  </div>
+</div>

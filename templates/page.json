@@ -1,0 +1,295 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_text_JmQiH8": {
+      "type": "section-text",
+      "blocks": {
+        "subheading_qC7hWL": {
+          "type": "subheading",
+          "settings": {
+            "text": "<p>+ de 500 puntos de venta activos <\/p>",
+            "size": 100,
+            "margin_bottom": 16
+          }
+        },
+        "heading_PfqkdX": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Plesh B2B (Business to business)<\/p>",
+            "size": 100,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": ""
+          }
+        },
+        "text_wR7ip7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>¿Te interesa vender Plesh en tu cafetería o comercio? <br\/>¡Es muy fácil! <br\/><br\/>1. Rellena el siguiente formulario <br\/>2. Recibe la información y condiciones <br\/>3. Haz tu pedido<br\/><br\/>Welcome to the PLESH COMMUNITY<\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qC7hWL",
+        "heading_PfqkdX",
+        "text_wR7ip7"
+      ],
+      "name": "Text",
+      "settings": {
+        "text_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_accordions_cjbTHT": {
+      "type": "section-accordions",
+      "blocks": {
+        "text_CnAz6k": {
+          "type": "text",
+          "settings": {
+            "title": "¿Desde qué importe son gratis los envíos en Black Friday?",
+            "text": "<p>Todos los envíos en España (Península y Baleares) son gratuitos en Black Friday a excepción del trial pack que tiene un coste de envío de 2.90€. <\/p>"
+          }
+        },
+        "text_adhx34": {
+          "type": "text",
+          "settings": {
+            "title": "¿Llegará mi pedido de Plesh antes de Navidad si compro ahora?",
+            "text": "<p>Tu pedido llegará antes de Navidad. En realidad, llegará en 48h.<\/p>"
+          }
+        },
+        "text_FxFANh": {
+          "type": "text",
+          "settings": {
+            "title": "¿Es el mayor descuento del año?",
+            "text": "<p>Durante todo el año te damos un 100% de descuento en azúcares añadidos, pero este 20% Dto. solo durará hasta el 30 de noviembre. <\/p>"
+          }
+        },
+        "text_KHceE6": {
+          "type": "text",
+          "settings": {
+            "title": "¿Puedo combinar diferentes sabores en los packs de oferta de Black Friday?",
+            "text": "<p>Puedes comprar el pack que más te guste. Para hacértelo fácil hemos lanzado el pack \"Meet the new normal\" con el que puedes disfrutar 5 uds de cada sabor.<\/p>"
+          }
+        },
+        "text_WDNmJY": {
+          "type": "text",
+          "settings": {
+            "title": "¿Qué tiene el nuevo pack Meet the new normal?",
+            "text": "<p>Se trata del pack para compartir (o no) 20 uds de nuestros 4 sabores: 5 uds Dark choco almond crunch bar, 5 uds Milk choco Caramel Crunch bar, 5 uds Milk choco salted caramel bites, 5 uds Dark choco sea salt bites). ¿y qué mas? Te lo enviamos en una caja muy top para que puedas regalar(te) también el placer de quedar muy bien. <\/p>"
+          }
+        },
+        "text_dfpP6H": {
+          "type": "text",
+          "settings": {
+            "title": "¿Cuándo termina Black Friday?",
+            "text": "<p>Del 21 al 30 de noviembre 2025, todos los días son Black friday en nuestra Black week.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_CnAz6k",
+        "text_adhx34",
+        "text_FxFANh",
+        "text_KHceE6",
+        "text_WDNmJY",
+        "text_dfpP6H"
+      ],
+      "disabled": true,
+      "name": "Accordions",
+      "settings": {
+        "layout": "two-columns",
+        "show_accordion_divider": false,
+        "line_thickness": "normal",
+        "title": "Preguntas frecuentes sobre Black Friday",
+        "type_style": "font-heading",
+        "heading_size": 120,
+        "subheading": "",
+        "text": "",
+        "tabs_bg_color": "#fafafa",
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "text_color": "text-dark",
+        "border_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_video_iPU7kH": {
+      "type": "section-video",
+      "disabled": true,
+      "name": "Video",
+      "settings": {
+        "video_height": "full-height",
+        "enable_mobile_height": false,
+        "mobile_height": "full-height-mobile",
+        "text_position": "middle-center",
+        "video_link_bg": "",
+        "video_link": "",
+        "image": "shopify:\/\/shop_images\/DARK_BITES.png",
+        "overlay_opacity": 10,
+        "text_color": "text-light",
+        "title": "<p>Welcome to Palo Alto<\/p>",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000000",
+        "highlight_text_color": "",
+        "text": "This text helps you provide some more detail to the title above.",
+        "heading_size": 100,
+        "button_text": "Welcome",
+        "button_link": "",
+        "button_color": "btn--white",
+        "button_style": "btn--solid-border",
+        "button_size": "btn--medium"
+      }
+    },
+    "section_contact_form_Y3cBjK": {
+      "type": "section-contact-form",
+      "blocks": {
+        "text_CDH7gi": {
+          "type": "text",
+          "settings": {
+            "title": "Nombre",
+            "required": false
+          }
+        },
+        "text_DyRDpf": {
+          "type": "text",
+          "settings": {
+            "title": "Empresa",
+            "required": false
+          }
+        },
+        "email_JgTeFH": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_cAF3Gg": {
+          "type": "body",
+          "settings": {
+            "title": "Mensaje",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "text_CDH7gi",
+        "text_DyRDpf",
+        "email_JgTeFH",
+        "body_cAF3Gg"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_fwWFXY": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_tA7YdL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image00024.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@AMETLLERORIGEN",
+            "button_link": "https:\/\/www.instagram.com\/ametllerorigen\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_j7zqXW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3394.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@CASA.BARRE",
+            "button_link": "https:\/\/www.instagram.com\/casa.barre\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_nGayHD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_3093.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@INCAPTO_COFFEE",
+            "button_link": "https:\/\/www.instagram.com\/incapto_coffee\/#",
+            "link_target_blank": true
+          }
+        },
+        "image_q48gxx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7018.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@AREAS.ES",
+            "button_link": "https:\/\/www.instagram.com\/areas.es\/",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_tA7YdL",
+        "image_j7zqXW",
+        "image_nGayHD",
+        "image_q48gxx"
+      ],
+      "name": "Social gallery",
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "+ de 500 puntos",
+        "title": "¿Eres el siguiente?",
+        "heading_size": 120,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_text_JmQiH8",
+    "section_accordions_cjbTHT",
+    "section_video_iPU7kH",
+    "section_contact_form_Y3cBjK",
+    "section_social_gallery_fwWFXY"
+  ]
+}

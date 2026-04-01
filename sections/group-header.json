@@ -1,0 +1,121 @@
+{
+  "type": "header",
+  "name": "Header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-0": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>100% OFF ADDED SUGARS ✦<\/strong><\/h3>",
+            "text_color": "",
+            "heading_highlight_type": "circle",
+            "highlight_color": "#333333",
+            "highlight_text_color": "#000000",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/all",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "text_qHVq7G": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>100% OFF GUILT ✦<\/strong><\/p>",
+            "text_color": "",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        },
+        "text_GXcnCk": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><strong>15% OFF CON EL CÓDIGO <\/strong>SANVALENTIN15 ✦<strong> ENVÍO GRATIS <\/strong>✦<strong> <\/strong><\/p>",
+            "text_color": "",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "icon_name": "none",
+            "icon_color": "",
+            "icon_width": 20,
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "text_qHVq7G",
+        "text_GXcnCk"
+      ],
+      "settings": {
+        "width": "wrapper--full",
+        "layout": "marquee",
+        "show_top_border": false,
+        "show_bottom_border": true,
+        "padding": 10,
+        "slider_speed": 5,
+        "show_arrows": false,
+        "marquee_speed": 100,
+        "direction": "ticker-ltr",
+        "text_caps": false,
+        "type_style": "font-body",
+        "text_size": 125,
+        "letter_spacing": 25,
+        "message_spacing": 0,
+        "bg_color": "#0b0b0b",
+        "gradient": "",
+        "color": "#ffffff",
+        "border_color": "#000000"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header": true,
+        "header_border": false,
+        "link_hover_effect": "line",
+        "logo_not_home": "shopify:\/\/shop_images\/LOGO-PLESH-NEGRO.webp",
+        "logo_max_width": 200,
+        "main-menu": "main-menu",
+        "main_menu_secondary": "",
+        "show_images": true,
+        "image_aspect_ratio": 1,
+        "menu_alignment": "center",
+        "header_icons_as_text": false,
+        "highlight_item": "",
+        "enable_custom_badge": false,
+        "custom_badge_text": "",
+        "highlight_item_color": "rgba(0,0,0,0)",
+        "header_transparent": false,
+        "header_text_color": "white",
+        "header_gradient": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

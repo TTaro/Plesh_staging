@@ -1,0 +1,2282 @@
+{
+  "sections": {
+    "section_banner_image_q4JpeN": {
+      "type": "section-banner-image",
+      "blocks": {
+        "subheading_BytN3a": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "size": 75
+          }
+        },
+        "heading_7pj7be": {
+          "type": "heading",
+          "settings": {
+            "text": "<h3><strong>EL SNACK QUE SIEMPRE QUISISTE<\/strong><\/h3>",
+            "size": 115,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": ""
+          }
+        },
+        "text_cg7yeL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>TU SNACK DIARIO  ✦  100% OFF ADDED SUGARS ✦ 100% OFF GUILT.<\/strong><\/p>",
+            "size": 100
+          }
+        },
+        "button_z9qUdy": {
+          "type": "button",
+          "settings": {
+            "stacked_button": false,
+            "button_1_text": "SHOP NOW",
+            "button_1_link": "shopify:\/\/collections\/productos",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--outline",
+            "button_1_size": "btn--small",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--medium"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_BytN3a",
+        "heading_7pj7be",
+        "text_cg7yeL",
+        "button_z9qUdy"
+      ],
+      "name": "Banner image",
+      "settings": {
+        "height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "image": "shopify:\/\/shop_images\/COUNTDOWN_IMAGE.png",
+        "image_mobile": "shopify:\/\/shop_images\/caja_xmas_1.png",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": false,
+        "increase_border_radius": true,
+        "text_width": "normal",
+        "text_position": "left",
+        "text_alignment": "text-left",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_AJDehR": {
+      "type": "section-image",
+      "disabled": true,
+      "name": "Image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANNERS_WEB_Mesa_de_trabajo_1_3d39b554-3641-4376-a354-dc50cd0f8d44.png",
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_list_butttons_4f99gR": {
+      "type": "section-list-butttons",
+      "blocks": {
+        "button_xj9Cif": {
+          "type": "button",
+          "settings": {
+            "heading": "COMPRAR",
+            "button_link": "shopify:\/\/collections\/productos",
+            "overlay_opacity": 100,
+            "block_text_color": "",
+            "bg_color": "#ffffff",
+            "border_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_xj9Cif"
+      ],
+      "disabled": true,
+      "name": "Buttons list",
+      "settings": {
+        "title": "",
+        "heading_size": 100,
+        "layout": "grid",
+        "alignment": "center",
+        "collections_per_row": 2,
+        "columns_mobile": "1",
+        "type_style": "button-typography",
+        "button_style": "pill",
+        "text_size": 115,
+        "letter_spacing": 75,
+        "show_arrow": false,
+        "bg_color": "#ffffff",
+        "block_text_color": "#000000",
+        "border_color": "#000000",
+        "section_bg_color": "#f7f7f7",
+        "gradient": "",
+        "section_text_color": "",
+        "enable_slider_mobile": true,
+        "animations_enabled": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_marquee_tB3aRz": {
+      "type": "section-marquee",
+      "blocks": {
+        "image_EEMPP9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trial_Pack.png",
+            "link": "shopify:\/\/products\/plesh-trial-pack",
+            "image_text": "TRIAL PACK",
+            "image_width": 300
+          }
+        },
+        "image_yfY3ND": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stickers-03.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        },
+        "image_zg7iJc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mockup_bar_darkchoco.png",
+            "link": "shopify:\/\/products\/dark-choco-almond-crunch-20-units",
+            "image_text": "DARK CHOCO ALMOND CRUNCH",
+            "image_width": 300
+          }
+        },
+        "image_bfTPFi": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stickers-04.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        },
+        "image_AaAa47": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stickers-04.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        },
+        "image_9YqpPh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bite_darkchoco_30g.webp",
+            "link": "shopify:\/\/products\/dark-choco-sea-salt-20-units",
+            "image_text": "DARK CHOCO SEA SALT",
+            "image_width": 300
+          }
+        },
+        "image_rUJk4z": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stickers_Mesa_de_trabajo_1.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        },
+        "image_emWyXT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/07-04_Mockup_bar_milkchoco.png",
+            "link": "shopify:\/\/products\/milk-choco-caramel-crunch-20-units-copia",
+            "image_text": "MILK CHOCO CARAMEL CRUNCH",
+            "image_width": 300
+          }
+        },
+        "image_F7Jyy6": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stickers-02.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        },
+        "image_igpiyN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bite_milkchoco_30g.webp",
+            "link": "shopify:\/\/products\/milk-choco-salted-caramel-20-units",
+            "image_text": "MILK CHOCO SALTED CARAMEL",
+            "image_width": 300
+          }
+        },
+        "image_Faaaqa": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/STICKER_Mesa_de_trabajo_1.png",
+            "link": "shopify:\/\/collections\/all",
+            "image_text": "SPLESH",
+            "image_width": 300
+          }
+        }
+      },
+      "block_order": [
+        "image_EEMPP9",
+        "image_yfY3ND",
+        "image_zg7iJc",
+        "image_bfTPFi",
+        "image_AaAa47",
+        "image_9YqpPh",
+        "image_rUJk4z",
+        "image_emWyXT",
+        "image_F7Jyy6",
+        "image_igpiyN",
+        "image_Faaaqa"
+      ],
+      "settings": {
+        "layout": "marquee",
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "padding": 50,
+        "marquee_speed": 100,
+        "direction": "ticker-rtl",
+        "slider_speed": 7,
+        "show_arrows": false,
+        "text_caps": false,
+        "type_style": "subheading-text",
+        "text_size": 100,
+        "letter_spacing": 0,
+        "message_spacing": 35,
+        "bg_color": "#ffffff",
+        "gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 6%, rgba(243, 243, 243, 1) 67%)",
+        "color": "#000000",
+        "border_color": "#000000",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_WbmKqQ": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "subheading_zbheDH": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Introducing the new normal",
+            "size": 75,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "heading_9fTydj": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>TODO EL SABOR.<\/p><p>SIN AZÚCARES AÑADIDOS.<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_j6KwyU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No somos un snack aburrido con un packaging bonito.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_RzngrR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Somos eso que pasa cuando mezclas creatividad, ciencia e innovación, para mantener la nostalgia del snack de chocolate sin los excesos del azúcar ni las calorías vacías de siempre.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_EmFkxy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Por eso sacamos el azúcar de la ecuación y nos quedamos solo con lo bueno: sabor, textura y mucho placer.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_t4eGD6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Para que hoy y mañana no tengas que renunciar a nada. <\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_hqBqAn": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop",
+            "button_link": "shopify:\/\/collections\/productos",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "subheading_zbheDH",
+        "heading_9fTydj",
+        "text_j6KwyU",
+        "text_RzngrR",
+        "text_EmFkxy",
+        "text_t4eGD6",
+        "button_hqBqAn"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/fotos_web_barritas-18.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_eecfc8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "subheading_WhNWxc": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Introducing the new normal",
+            "size": 75,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "heading_fwcWfq": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>TU DOSIS DE DOPAMINA<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_pe9P3e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enero. <\/p><p>El mes de los nuevos comienzos. <\/p><p>Nuevo look, nuevas rutinas, nuevos hobbies, nuevos sueños, nuevos hábitos...<\/p><p>Una checklist tan infinita como lo que dura este mes de enero. <\/p><p>Y que cuesta tanto como llegar a febrero sin llorar. <\/p><p>Sabemos que los nuevos comienzos son complicados. Pero tranqui, solo necesitas un poco de dopamina, de chocolate, sin azúcar. Un poco (o mucho) PLESH. <\/p><p>Tu dosis de dopamina. Tu snack diario.  <\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_PYrWcL": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop",
+            "button_link": "shopify:\/\/collections\/productos",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WhNWxc",
+        "heading_fwcWfq",
+        "text_pe9P3e",
+        "button_PYrWcL"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/Formato_Lifestyle_Enero_Web-01_92cc642f-771c-4173-b259-f2356669e108.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_bwzJpW": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "subheading_T9DEGD": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Introducing the new normal",
+            "size": 75,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "heading_UkgFtx": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>NO-GUILT ROMANCE<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_GmJafc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tu crush no contesta. Tu ex reaparece. Y con tu situationship... llevas más de un año en loop.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_riDGhg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Por eso presentamos: NO-GUILT Romance.<\/p><p> El regalo perfectopara cuando no quieres decir demasiado, pero tampoco nada.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_pfDMWK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si lo que quieres es hacer es un poquito de lovebombing, que el fantasma de tu ex desaparezca, o simplemente eres people pleasure.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_g3pAim": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tenemos algo para ti.<\/p><p>Sin promesas, sin conversaciones incómodas y sin azúcares añadidos.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_tzDDWq": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop now",
+            "button_link": "shopify:\/\/collections\/productos",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "subheading_T9DEGD",
+        "heading_UkgFtx",
+        "text_GmJafc",
+        "text_riDGhg",
+        "text_pfDMWK",
+        "text_g3pAim",
+        "button_tzDDWq"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "show_accordion_divider": false,
+        "increase_border_radius": false,
+        "section_height": "six-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "three-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/BANNER_COPY-03.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_kP3RB9": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_3iWi3m": {
+          "type": "text",
+          "settings": {
+            "icon_name": "star",
+            "icon_image": "shopify:\/\/shop_images\/BULLET_PLESH.svg",
+            "title": "SOURCE OF PROTEIN",
+            "text": ""
+          }
+        },
+        "text_MLdtiE": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eco-friendly",
+            "icon_image": "shopify:\/\/shop_images\/BULLET_PLESH.svg",
+            "title": "PREBIOTIC FIBER",
+            "text": ""
+          }
+        },
+        "text_ynFhWY": {
+          "type": "text",
+          "settings": {
+            "icon_name": "star",
+            "icon_image": "shopify:\/\/shop_images\/BULLET_PLESH.svg",
+            "title": "ZERO ADDED SUGARS",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_3iWi3m",
+        "text_MLdtiE",
+        "text_ynFhWY"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "inline-center",
+        "columns": 3,
+        "icons_width": 20,
+        "show_vertical_borders": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "heading_size": 140,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "#333333",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 30
+      }
+    },
+    "section_look_JDNbrM": {
+      "type": "section-look",
+      "blocks": {
+        "product_tzU3Yg": {
+          "type": "product",
+          "settings": {
+            "product": "dark-choco-almond-crunch-20-units",
+            "position_x_desktop": 13,
+            "position_y_desktop": 73,
+            "position_x_mobile": 38,
+            "position_y_mobile": 16,
+            "info_bubbles_position_desktop": 30,
+            "info_bubbles_position_mobile": 15
+          }
+        },
+        "product_yP9qfb": {
+          "type": "product",
+          "settings": {
+            "product": "milk-choco-salted-caramel-20-units",
+            "position_x_desktop": 86,
+            "position_y_desktop": 76,
+            "position_x_mobile": 41,
+            "position_y_mobile": 43,
+            "info_bubbles_position_desktop": 30,
+            "info_bubbles_position_mobile": 30
+          }
+        },
+        "product_rBG4R3": {
+          "type": "product",
+          "settings": {
+            "product": "dark-choco-sea-salt-20-units",
+            "position_x_desktop": 39,
+            "position_y_desktop": 32,
+            "position_x_mobile": 62,
+            "position_y_mobile": 63,
+            "info_bubbles_position_desktop": 55,
+            "info_bubbles_position_mobile": 30
+          }
+        },
+        "product_g8CQBX": {
+          "type": "product",
+          "settings": {
+            "product": "milk-choco-caramel-crunch-20-units-copia",
+            "position_x_desktop": 62,
+            "position_y_desktop": 25,
+            "position_x_mobile": 39,
+            "position_y_mobile": 86,
+            "info_bubbles_position_desktop": 0,
+            "info_bubbles_position_mobile": 25
+          }
+        }
+      },
+      "block_order": [
+        "product_tzU3Yg",
+        "product_yP9qfb",
+        "product_rBG4R3",
+        "product_g8CQBX"
+      ],
+      "disabled": true,
+      "name": "Shop the Look Grid",
+      "settings": {
+        "products_on_row": 2,
+        "image": "shopify:\/\/shop_images\/export50126_01-FullPack.png",
+        "image_position": "is-reversed",
+        "enable_aspect_ratio": true,
+        "main_image_aspect_ratio": 1,
+        "title": "Your Everyday Snack",
+        "text": "<p>FULL FLAVOUR ✦ ZERO ADDED SUGARS<\/p>",
+        "text_alignment": "text-left",
+        "show_hotspots": true,
+        "show_arrow": true,
+        "popup_heading": "Your Xmas Snack",
+        "show_free_shipping_message": true,
+        "content_color": "text-dark",
+        "hotspot_color": "",
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "hotspot_contents_text_color": "text-dark",
+        "hotspot_contents_bg_color": "rgba(0,0,0,0)",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_look_eXDPf6": {
+      "type": "section-look",
+      "blocks": {
+        "product_XyicXY": {
+          "type": "product",
+          "settings": {
+            "product": "dark-choco-almond-crunch-20-units",
+            "position_x_desktop": 13,
+            "position_y_desktop": 73,
+            "position_x_mobile": 38,
+            "position_y_mobile": 16,
+            "info_bubbles_position_desktop": 30,
+            "info_bubbles_position_mobile": 15
+          }
+        },
+        "product_LQffy8": {
+          "type": "product",
+          "settings": {
+            "product": "dark-choco-sea-salt-20-units",
+            "position_x_desktop": 86,
+            "position_y_desktop": 76,
+            "position_x_mobile": 41,
+            "position_y_mobile": 43,
+            "info_bubbles_position_desktop": 30,
+            "info_bubbles_position_mobile": 30
+          }
+        },
+        "product_r3FhgY": {
+          "type": "product",
+          "settings": {
+            "product": "milk-choco-salted-caramel-20-units",
+            "position_x_desktop": 39,
+            "position_y_desktop": 32,
+            "position_x_mobile": 62,
+            "position_y_mobile": 63,
+            "info_bubbles_position_desktop": 55,
+            "info_bubbles_position_mobile": 30
+          }
+        },
+        "product_LJjp6G": {
+          "type": "product",
+          "settings": {
+            "product": "milk-choco-caramel-crunch-20-units-copia",
+            "position_x_desktop": 76,
+            "position_y_desktop": 25,
+            "position_x_mobile": 39,
+            "position_y_mobile": 86,
+            "info_bubbles_position_desktop": 0,
+            "info_bubbles_position_mobile": 25
+          }
+        }
+      },
+      "block_order": [
+        "product_XyicXY",
+        "product_LQffy8",
+        "product_r3FhgY",
+        "product_LJjp6G"
+      ],
+      "name": "Shop the Look Grid",
+      "settings": {
+        "products_on_row": 2,
+        "image": "shopify:\/\/shop_images\/Formato_WEB_SV_S-01.png",
+        "image_position": "is-reversed",
+        "enable_aspect_ratio": true,
+        "main_image_aspect_ratio": 1,
+        "title": "Your Everyday Snack",
+        "text": "<p>FULL FLAVOUR ✦ ZERO ADDED SUGARS<\/p>",
+        "text_alignment": "text-left",
+        "show_hotspots": true,
+        "show_arrow": true,
+        "popup_heading": "Your Xmas Snack",
+        "show_free_shipping_message": true,
+        "content_color": "text-dark",
+        "hotspot_color": "",
+        "bg_color": "#ffffff",
+        "gradient": "",
+        "hotspot_contents_text_color": "text-dark",
+        "hotspot_contents_bg_color": "rgba(0,0,0,0)",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_icons_row_MmJjce": {
+      "type": "section-icons-row",
+      "blocks": {
+        "text_NpKPVp": {
+          "type": "text",
+          "settings": {
+            "icon_name": "truck",
+            "title": "Free Shipping",
+            "text": ""
+          }
+        },
+        "text_Nfz7QT": {
+          "type": "text",
+          "settings": {
+            "icon_name": "frozen",
+            "title": "COLD DELIVERY",
+            "text": ""
+          }
+        },
+        "text_npXR9H": {
+          "type": "text",
+          "settings": {
+            "icon_name": "package",
+            "title": "ENVÍO 24-48H",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_NpKPVp",
+        "text_Nfz7QT",
+        "text_npXR9H"
+      ],
+      "name": "Icons row",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "alignment": "center",
+        "columns": 4,
+        "icons_width": 40,
+        "show_vertical_borders": false,
+        "show_top_border": false,
+        "show_bottom_border": false,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "#333333",
+        "box_color": "",
+        "color_border": "rgba(0,0,0,0)",
+        "button_text": "",
+        "button_link": "",
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "layout_mobile": "stacked",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "section_image_with_text_P3axYX": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_APTAwG": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>TIME FOR PLESHURE<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_p83EcV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No somos una chocolatina industrial disfrazada de saludable. Ni un snack aburrido con un packaging bonito.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_qDqPbX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Somos eso que pasa cuando mezclas creatividad, ciencia e innovación para mantener la nostalgia del snack de chocolate, sin los excesos de azúcar ni las calorías vacías de la industria.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_8FfWAY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Por eso sacamos el azúcar de la ecuación y nos quedamos solo con lo bueno: sabor, textura y mucho placer.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_TLbfUA": {
+          "type": "button",
+          "settings": {
+            "button_text": "ABOUT US",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_APTAwG",
+        "text_p83EcV",
+        "text_qDqPbX",
+        "text_8FfWAY",
+        "button_TLbfUA"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/fotos_web_final-08.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_a6VRRP": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_H4DK3z": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>SPLESH<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "subheading_fRkbhP": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "WITHOUT CONTROL",
+            "size": 125,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_e6gURN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hay cosas que el calor no perdona.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_QcmEPD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pero el verano no es para controlarse ni para seguir normas.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_HGgQpX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tampoco para renunciar al placer de comer chocolate.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_gzXk3w": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En PLESH controlamos la temperatura en nuestro almacén y envíos.<br\/><br\/>Para que tú disfrutes sin control.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_U3CCKw": {
+          "type": "button",
+          "settings": {
+            "button_text": "READY TO MELT?",
+            "button_link": "",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "subheading_wRDXBy": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "TOO HOT TO COOL DOWN",
+            "size": 100,
+            "text_position": "right",
+            "spacing_bottom": 32
+          }
+        }
+      },
+      "block_order": [
+        "heading_H4DK3z",
+        "subheading_fRkbhP",
+        "text_e6gURN",
+        "text_QcmEPD",
+        "text_HGgQpX",
+        "text_gzXk3w",
+        "button_U3CCKw",
+        "subheading_wRDXBy"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/000011600023.jpg",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_products_list_pXrGWk": {
+      "type": "section-products-list",
+      "blocks": {
+        "product_BdrrTt": {
+          "type": "product",
+          "settings": {
+            "product": "plesh-trial-pack",
+            "title": "",
+            "product_description": "",
+            "button_text": "SNACK THE FUTURE",
+            "show_second_image": false,
+            "show_circle": false,
+            "hide_on_mobile": false,
+            "circle_text_color": "#000000",
+            "circle_rotate_animation": "rotate-on-scroll",
+            "circle_text": "",
+            "circle_word_spacing": 3,
+            "circle_size": 150
+          }
+        }
+      },
+      "block_order": [
+        "product_BdrrTt"
+      ],
+      "disabled": true,
+      "name": "Products list",
+      "settings": {
+        "title": "",
+        "heading_size": 100,
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "image_aspect_ratio": 1,
+        "bg_color": "",
+        "gradient": "radial-gradient(rgba(255, 255, 255, 1) 5%, rgba(255, 255, 255, 1) 37%, rgba(255, 255, 255, 1) 100%)",
+        "width": "wrapper",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_UegGJT": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_YyCAWh": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>TIME FOR PLEASURE<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_YnByiq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No somos una chocolatina industrial disfrazada de saludable. Ni un snack aburrido con un packaging bonito.<\/p>",
+            "size": 90,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_eYGkyN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Somos eso que pasa cuando mezclas creatividad, ciencia e innovación para mantener la nostalgia del snack de chocolate, sin los excesos de azúcar ni las calorías vacías de la industria.<\/p>",
+            "size": 90,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_catDkQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Por eso sacamos el azúcar de la ecuación y nos quedamos solo con lo bueno: sabor, textura y mucho placer.<\/p>",
+            "size": 90,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "button_gJ3YKW": {
+          "type": "button",
+          "settings": {
+            "button_text": "SNACK THE FUTURE",
+            "button_link": "shopify:\/\/products\/plesh-trial-pack",
+            "button_color": "btn--black",
+            "button_style": "btn--solid",
+            "button_size": "btn--small",
+            "video_link": "",
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_YyCAWh",
+        "text_YnByiq",
+        "text_eYGkyN",
+        "text_catDkQ",
+        "button_gJ3YKW"
+      ],
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "four-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "two-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "narrow",
+        "image": "shopify:\/\/shop_images\/Trial_Pack.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_accordions_PR9Ayx": {
+      "type": "section-image-accordions",
+      "blocks": {
+        "image_HUhNVj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Plesh_V100083.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "top-left",
+            "text_color": "text-light",
+            "title": "01",
+            "text": "DARK CHOCO ALMOND CRUNCH",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/dark-choco-almond-crunch-20-units",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--medium"
+          }
+        },
+        "image_46KyMn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Plesh_V100064_f750033a-e06e-430e-92e1-b115e8317355.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "top-left",
+            "text_color": "text-light",
+            "title": "02",
+            "text": "MILK CHOCO CARAMEL CRUNCH",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/milk-choco-caramel-crunch-20-units-copia",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--medium"
+          }
+        },
+        "image_JNj8nB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Plesh_V100082.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "top-left",
+            "text_color": "text-light",
+            "title": "03",
+            "text": "DARK CHOCO SEA SALT",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/dark-choco-sea-salt-20-units",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--medium"
+          }
+        },
+        "image_CqTUBV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Plesh_V100038.jpg",
+            "overlay_opacity": 10,
+            "text_width": "wide",
+            "text_position": "top-left",
+            "text_color": "text-light",
+            "title": "04",
+            "text": "MILK CHOCO SALTED CARAMEL",
+            "button_1_text": "",
+            "button_1_link": "shopify:\/\/products\/milk-choco-salted-caramel-20-units",
+            "button_1_color": "btn--white",
+            "button_1_style": "btn--solid-border",
+            "button_1_size": "btn--medium",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_color": "btn--black",
+            "button_2_style": "btn--solid",
+            "button_2_size": "btn--medium"
+          }
+        }
+      },
+      "block_order": [
+        "image_HUhNVj",
+        "image_46KyMn",
+        "image_JNj8nB",
+        "image_CqTUBV"
+      ],
+      "disabled": true,
+      "settings": {
+        "accordion_height": "six-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_section_height": "five-fifty-height-mobile",
+        "heading_size": 100,
+        "width": "wrapper--full-padded",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "section_image_with_text_rcH8f4": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "subheading_cnVqED": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "DISCOVER THE BLEND",
+            "size": 105,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "heading_TeG6FQ": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_htR6Pj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es nuestro secreto para hacer salivar. Una mezcla de fibras vegetales que endulza y le da la textura perfecta a nuestros snacks. Sin azúcar, sin pico glucémico. <\/p>",
+            "size": 90,
+            "text_position": "left",
+            "spacing_bottom": 8
+          }
+        }
+      },
+      "block_order": [
+        "subheading_cnVqED",
+        "heading_TeG6FQ",
+        "text_htR6Pj"
+      ],
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "two-hundred-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "left",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/ZEROUP_Mesa_de_trabajo_1.jpg",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_6wgUCw": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_DTBkPd": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>001<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_NQeM3i": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Placer.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_ybDbCJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un día fueron ellos quienes lo definieron.<\/p><p>Hoy somos nosotros.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_7tyRpM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La nueva normalidad.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_rnR8V6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En un mundo lleno de culpa<\/p><p>rompemos las barreras con<\/p><p>sabor, creatividad, innovación y ciencia.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_CJGL76": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Para que hoy,<\/p><p>y mañana,<\/p><p>no tengas que renunciar a nada.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_rTTkxP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Plesh.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_7L9kVy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>El futuro del placer<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_DTBkPd",
+        "text_NQeM3i",
+        "text_ybDbCJ",
+        "text_7tyRpM",
+        "text_rnR8V6",
+        "text_CJGL76",
+        "text_rTTkxP",
+        "text_7L9kVy"
+      ],
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/BITES_MONI_EDIT.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_image_with_text_C3aQ8J": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "heading_KqEL4D": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>001<\/p>",
+            "size": 120,
+            "text_position": "left",
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000000",
+            "highlight_text_color": "",
+            "spacing_bottom": 12
+          }
+        },
+        "text_L7ECbC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Placer.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_mzrRRD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un día fueron ellos quienes lo definieron.<\/p><p>Hoy somos nosotros.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_HwEw7H": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La nueva normalidad.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_wUdUnG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>En un mundo lleno de culpa<\/p><p>rompemos las barreras con<\/p><p>sabor, creatividad, innovación y ciencia.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_9K8Rp9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Para que hoy,<\/p><p>y mañana,<\/p><p>no tengas que renunciar a nada.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_qCH6nY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Plesh.<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        },
+        "text_8Utqxt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>El futuro del placer<\/p>",
+            "size": 100,
+            "text_position": "left",
+            "spacing_bottom": 12
+          }
+        }
+      },
+      "block_order": [
+        "heading_KqEL4D",
+        "text_L7ECbC",
+        "text_mzrRRD",
+        "text_HwEw7H",
+        "text_wUdUnG",
+        "text_9K8Rp9",
+        "text_qCH6nY",
+        "text_8Utqxt"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_accordion_divider": true,
+        "increase_border_radius": false,
+        "section_height": "five-fifty-height",
+        "enable_mobile_height": true,
+        "mobile_height": "four-fifty-height-mobile",
+        "layout": "inline",
+        "image_location": "right",
+        "image_width": "standard",
+        "image": "shopify:\/\/shop_images\/Formato_WEB_SV_S-13.png",
+        "block_bg_color": "",
+        "text_color": "text-dark",
+        "bg_color": "",
+        "gradient": "",
+        "section_width": "wrapper",
+        "add_gutter": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_dQWkLC": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_jWzr43": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/PLESHCAM 1706_V2.mov",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DKkSNqetqut\/",
+            "link_target_blank": true
+          }
+        },
+        "image_nyedCW": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/theoffice.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DKkSNqetqut\/",
+            "link_target_blank": true
+          }
+        },
+        "image_EyMw4j": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/incapto.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DJtn_XHN2Yu\/",
+            "link_target_blank": true
+          }
+        },
+        "image_YFUP4x": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQNsr2US7IBKC5D0lmxSKzR0H_Rbf6wtVXZsUV9O8ORg2oUB0dVwPLx7XMdqX264INjkGOVegL_bgARRCiqeL4BFu7bmJnrDLe8iZ6g.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DJrx-XPtMaI\/",
+            "link_target_blank": true
+          }
+        },
+        "image_pYeUGb": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/PLESH_TASTERBOX_VERT_04_SINMUSICA.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DI9mQy3NTah\/",
+            "link_target_blank": true
+          }
+        },
+        "image_Qe8mxU": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/v24044gl0000d05s7efog65tuc8sq9e0.MP4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.tiktok.com\/@myplesh\/video\/7497301631214603542",
+            "link_target_blank": true
+          }
+        },
+        "image_ECYQti": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQN-sshbZ6_fjYITzTvHextP1HCOta9FmElLzcZfEUVgI6wtCmOo5A0keofpbZucCJOFDRvyFgi0IDjjRn_3OG6jpOEPJNu2fo-XUNk.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DIzFMhWNXZ6\/",
+            "link_target_blank": true
+          }
+        },
+        "image_E3UYUH": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQM0N9uXStdtcTea_ZUkdBIZa2WD8cbbhPtuCpFG7h1tpYbF_AxdH7ZoNC11QfoKqrHW3gGv5caD0J8Qw483Quz4d1_d2YZjLUJO8eI.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_k9MgT4": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQN4axAMNbupQkUC1ic2wXPKsgP-tr1jNiVZfL-HrCay7Ro-h6Qrn_X52S_o1T8evocq4Qh4w9VZeSUSbikBRRp6nBkI6UoXuG4WhFk.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_Q4ArNL": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/DIA_4.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_wpCxyH": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQNnVkjITf05aZB7nDYor_2-5gHlqu91VLwDpsiTCWz7uCloxtW0FuCKfuG8IwKDTbreVk6xjHxkJgYVHngI78a1Huw13C6QTeXcixo.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DIb8U1bNMQ3\/",
+            "link_target_blank": true
+          }
+        },
+        "image_pjEwHH": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQOqjK94dKG3ccyeXt0VUtwwgN5VcQa0XVsuKmd_bIa5j33V6-4P4UCifwq4MwCRzlxueqfQw5vT4xu7K4k0Ozawaag1JRkkeCLtZkQ.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DIUMvqbNECq\/",
+            "link_target_blank": true
+          }
+        },
+        "image_9VVeK7": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/DIA_1..mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DIRoAbCtzuM\/",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_jWzr43",
+        "image_nyedCW",
+        "image_EyMw4j",
+        "image_YFUP4x",
+        "image_pYeUGb",
+        "image_Qe8mxU",
+        "image_ECYQti",
+        "image_E3UYUH",
+        "image_k9MgT4",
+        "image_Q4ArNL",
+        "image_wpCxyH",
+        "image_pjEwHH",
+        "image_9VVeK7"
+      ],
+      "disabled": true,
+      "name": "Social gallery",
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "",
+        "title": "WHAT WE'VE BEEN UP FOR THE LAST MONTHS",
+        "heading_size": 120,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_hDDeta": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_QQrYNm": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/NAZIKONE.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DMz47setick\/?utm_source=ig_web_copy_link&igsh=MW04dXV3cGdxNXpyaQ==",
+            "link_target_blank": true
+          }
+        },
+        "image_mwLheW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5510-2.heic",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_WkxjKk": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/VIDEO ALMU.mov",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DMz47setick\/?utm_source=ig_web_copy_link&igsh=MW04dXV3cGdxNXpyaQ==",
+            "link_target_blank": true
+          }
+        },
+        "image_JnGNF9": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/VIDEO ANYA.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DMz47setick\/?utm_source=ig_web_copy_link&igsh=MW04dXV3cGdxNXpyaQ==",
+            "link_target_blank": true
+          }
+        },
+        "image_y4RcdV": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/IMG_5643.MP4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DMz47setick\/?utm_source=ig_web_copy_link&igsh=MW04dXV3cGdxNXpyaQ==",
+            "link_target_blank": true
+          }
+        },
+        "image_rEekMg": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQM-ZaPvvDd8oXE1Jj3azBgDRQn6aevDn4TcnVwhh28yAR4SRWEcKuiQoGjYW6WcS1nzse67UJvQuPUdS1Ca2q20NaZ5_106S9rvNgQ.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DMz47setick\/?utm_source=ig_web_copy_link&igsh=MW04dXV3cGdxNXpyaQ==",
+            "link_target_blank": true
+          }
+        },
+        "image_8wmzm9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FOTO_ESPE.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_FnX7iB": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FOTO_ARIADNA.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_3paxtj": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/Ads2_9-16_Summer_Plesh.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_NcXLm4": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/summer.jpg",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        },
+        "image_Nm93hM": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/SaveClip.App_AQP2XBZSx8bHSz4Otb8DpBF2UkJRqQJFBrGPJKsDvw823iewpQpL9YerdxjbHEiDyl5eyJ7VBhzP4b94zWPNC7qqJON_ncB-KR3ib5A.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_cnGhEK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5510-2.heic",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_QQrYNm",
+        "image_mwLheW",
+        "image_WkxjKk",
+        "image_JnGNF9",
+        "image_y4RcdV",
+        "image_rEekMg",
+        "image_8wmzm9",
+        "image_FnX7iB",
+        "image_3paxtj",
+        "image_NcXLm4",
+        "image_Nm93hM",
+        "image_cnGhEK"
+      ],
+      "disabled": true,
+      "name": "Social gallery",
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "",
+        "title": "PLESH FRIENDS",
+        "heading_size": 80,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_social_gallery_qCXzzD": {
+      "type": "section-social-gallery",
+      "blocks": {
+        "image_D38ir4": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/6c324e3712c7469e90e4278cd8a4a0a7.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_7hjb7F": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/JAMES.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.tiktok.com\/@james_folch\/video\/7499129646072581398?q=JAMES%20FOLCH&t=1749028593777",
+            "link_target_blank": true
+          }
+        },
+        "image_LRJxcM": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/FOODICHIII.mp4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.tiktok.com\/@foodichiiii\/video\/7494992705328549142",
+            "link_target_blank": true
+          }
+        },
+        "image_rczqDC": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/EYOUPLESH.MP4",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/p\/DJhlT8ttLUp\/?img_index=6",
+            "link_target_blank": true
+          }
+        },
+        "image_Ub9AYn": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/15ddb84328a648c8974cc57d4208216d.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_98Ux9j": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/df5e2dea067c4a39bed661d3fa63ed8b.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_AbVx76": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/96fc5da1d5e64eb98a951b446e5fae3f.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_KPkGrE": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/6b6ca84636be4b4e9269c3b1cc0b2ba8.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_4FVikr": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/cfb4704f6c564c95944c976f7cd5cd83.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_m6PwEL": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/PLESH_TASTERBOX_VERT_04_SINMUSICA.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/reel\/DI9mQy3NTah\/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+            "link_target_blank": true
+          }
+        },
+        "image_6ctaE3": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/eca3348df03e440399c5604549753352.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_bJejtm": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/f661e5f256414cdab37350f561e05a59.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_3jxFmt": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/7a1181c4b141450fa84eff557d4a70de.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_eFnhRg": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/0111ad16738f4a37aa5ffa7c96685f39.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@MYPLESH",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_rJ6gGY": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/db8d3cc9c05e4e748d054bcbfe2c0cb8.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "@MYPLESH",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_zQiQXt": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/d3e7c416af4d4ad8b0447b8a545249b3.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        },
+        "image_V3aXqY": {
+          "type": "image",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/fc451294978e420eaa073f2fa217191f.MOV",
+            "text": "",
+            "text_size": 75,
+            "button_text": "",
+            "button_link": "https:\/\/www.instagram.com\/myplesh\/",
+            "link_target_blank": true
+          }
+        }
+      },
+      "block_order": [
+        "image_D38ir4",
+        "image_7hjb7F",
+        "image_LRJxcM",
+        "image_rczqDC",
+        "image_Ub9AYn",
+        "image_98Ux9j",
+        "image_AbVx76",
+        "image_KPkGrE",
+        "image_4FVikr",
+        "image_m6PwEL",
+        "image_6ctaE3",
+        "image_bJejtm",
+        "image_3jxFmt",
+        "image_eFnhRg",
+        "image_rJ6gGY",
+        "image_zQiQXt",
+        "image_V3aXqY"
+      ],
+      "settings": {
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "columns": 4,
+        "aspect_ratio_desktop": 1.2,
+        "aspect_ratio_mobile": 1,
+        "subheading": "",
+        "title": "PLESH FRIENDS",
+        "heading_size": 120,
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_press_kjfM6N": {
+      "type": "section-press",
+      "blocks": {
+        "press_Vf3CCJ": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.lavanguardia.com\/economia\/emprendedores\/20250418\/10581423\/startup-azucares-chocolate.html",
+            "press_logo": "shopify:\/\/shop_images\/la-vanguardia-vector-logo.png",
+            "logo_width": 180
+          }
+        },
+        "press_zbHrak": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.elperiodico.com\/es\/economia\/20250410\/plesh-chocolatina-saludable-flax-kale-disfrutar-pique-gasol-116056255",
+            "press_logo": "shopify:\/\/shop_images\/elperiodico.png",
+            "logo_width": 150
+          }
+        },
+        "press_U9eVaE": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.20minutos.es\/gastronomia\/productos\/gerard-pique-marc-gasol-rudy-fernandez-chocolate-sin-azucar-producto-nuevo-negocio-5709655\/",
+            "press_logo": "shopify:\/\/shop_images\/logo_veinte_20_minutos_diario.png",
+            "logo_width": 150
+          }
+        },
+        "press_xYbEjz": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.tapasmagazine.es\/plesh-es-el-futuro-de-los-snacks-de-chocolate\/",
+            "press_logo": "shopify:\/\/shop_images\/logo-tapasmagazine.svg",
+            "logo_width": 100
+          }
+        },
+        "press_Fc7Xqa": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/as.com\/tikitakas\/famosos\/asi-es-plesh-el-nuevo-negocio-que-una-a-gerard-pique-marc-gasol-y-rudy-fernandez-n\/",
+            "press_logo": "shopify:\/\/shop_images\/as.svg",
+            "logo_width": 70
+          }
+        },
+        "press_j3kCam": {
+          "type": "press",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.alimarket.es\/alimentacion\/noticia\/406776\/-plesh--cierra-una-ronda-de-1-m--y-llega-al-mercado-para--redefinir-el-concepto-de-indulgencia-",
+            "press_logo": "shopify:\/\/shop_images\/lgo-alimarket.svg",
+            "logo_width": 150
+          }
+        },
+        "press_NdD8Gx": {
+          "type": "press",
+          "settings": {
+            "text": "",
+            "link": "https:\/\/www.elnacional.cat\/oneconomia\/ca\/empreses\/neix-plesh-kit-kat-saludable-segell-barceloni_1396480_102.html",
+            "press_logo": "shopify:\/\/shop_images\/logo-elnacional_2c8577fd.svg",
+            "logo_width": 130
+          }
+        }
+      },
+      "block_order": [
+        "press_Vf3CCJ",
+        "press_zbHrak",
+        "press_U9eVaE",
+        "press_xYbEjz",
+        "press_Fc7Xqa",
+        "press_j3kCam",
+        "press_NdD8Gx"
+      ],
+      "name": "Press\/Logo",
+      "settings": {
+        "title": "",
+        "show_quotations": true,
+        "show_rounded_corners": false,
+        "logo_opacity": 60,
+        "autoplay": true,
+        "duration": 3,
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--narrow",
+        "padding_top": 70,
+        "padding_bottom": 70
+      }
+    }
+  },
+  "order": [
+    "section_banner_image_q4JpeN",
+    "section_image_AJDehR",
+    "section_list_butttons_4f99gR",
+    "section_marquee_tB3aRz",
+    "section_image_with_text_WbmKqQ",
+    "section_image_with_text_eecfc8",
+    "section_image_with_text_bwzJpW",
+    "section_icons_row_kP3RB9",
+    "section_look_JDNbrM",
+    "section_look_eXDPf6",
+    "section_icons_row_MmJjce",
+    "section_image_with_text_P3axYX",
+    "section_image_with_text_a6VRRP",
+    "section_products_list_pXrGWk",
+    "section_image_with_text_UegGJT",
+    "section_image_accordions_PR9Ayx",
+    "section_image_with_text_rcH8f4",
+    "section_image_with_text_6wgUCw",
+    "section_image_with_text_C3aQ8J",
+    "section_social_gallery_dQWkLC",
+    "section_social_gallery_hDDeta",
+    "section_social_gallery_qCXzzD",
+    "section_press_kjfM6N"
+  ]
+}

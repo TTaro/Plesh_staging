@@ -1,0 +1,117 @@
+{
+  "type": "aside",
+  "name": "Overlay",
+  "sections": {
+    "popup": {
+      "type": "popup",
+      "blocks": {
+        "popup-0": {
+          "type": "popup-with-image",
+          "disabled": true,
+          "settings": {
+            "position": "center-center",
+            "custom_tag": "",
+            "image": "shopify:\/\/shop_images\/fINDE_BAQUEIRA_85587e3c-cc24-403b-9212-15bedc5379f6.png",
+            "height": "original-height",
+            "title": "",
+            "text": "<h1><strong><br\/>LOTERÍA PLESH<\/strong><\/h1><h6>Todos los pedidos +30€ entran en el sorteo del 05.12 al 06.01<br\/><br\/><a href=\"\/blogs\/bases\/bases-legales-de-participacion-en-el-sorteo-loteria-plesh-la-nueva-normalidad-en-navidad\" target=\"_blank\" title=\"BASES LEGALES DE PARTICIPACIÓN EN EL SORTEO “LOTERÍA PLESH: LA NUEVA NORMALIDAD EN NAVIDAD”\"><em>ver bases del sorteo<\/em><br\/><\/a><br\/><a href=\"\/collections\/productos\" title=\"Productos\"><strong>SHOP<\/strong><\/a><\/h6>",
+            "show_newsletter_form": false,
+            "extra_fields": "",
+            "button_text": "shop",
+            "trigger": "always",
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/all",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile",
+            "bg_color": "#0b0b0b",
+            "text_color": "text-light"
+          }
+        },
+        "popup_with_image_DWE7zw": {
+          "type": "popup-with-image",
+          "disabled": true,
+          "settings": {
+            "position": "center-center",
+            "custom_tag": "",
+            "image": "shopify:\/\/shop_images\/Portada_nl_100.png",
+            "height": "original-height",
+            "title": "",
+            "text": "<h1><strong><br\/>ÚLTIMAS HORAS 20% off en todo<\/strong><\/h1><h6>(Y del 21 al 30.11 todos los pedidos entran en el sorteo de 100% OFF: tu pedido te puede salir gratis)<\/h6><h3><a href=\"\/collections\/productos\" title=\"Productos\"><strong>shop<\/strong><\/a><\/h3>",
+            "show_newsletter_form": false,
+            "extra_fields": "",
+            "button_text": "shop",
+            "trigger": "always",
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/all",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile",
+            "bg_color": "#0b0b0b",
+            "text_color": "text-light"
+          }
+        },
+        "popup_with_image_fUL8Lc": {
+          "type": "popup-with-image",
+          "disabled": true,
+          "settings": {
+            "position": "center-center",
+            "custom_tag": "",
+            "image": "shopify:\/\/shop_images\/fotos_web_final-06.png",
+            "height": "three-fifty-height",
+            "title": "15% OFF en tu primer pedido",
+            "text": "<p><strong>Suscríbete y ahorra un 15% en tu primer pedido.<\/strong><br\/><br\/><a href=\"\/collections\/all\" title=\"Todos los productos\"><strong>VER PRODUCTOS<\/strong><\/a><\/p>",
+            "show_newsletter_form": true,
+            "extra_fields": "",
+            "button_text": "",
+            "trigger": "always",
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/all",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile",
+            "bg_color": "#0b0b0b",
+            "text_color": "text-light"
+          }
+        },
+        "popup_with_image_mf9FaY": {
+          "type": "popup-with-image",
+          "disabled": true,
+          "settings": {
+            "position": "center-center",
+            "custom_tag": "",
+            "image": "shopify:\/\/shop_images\/BANNER_PRUEBA-03.png",
+            "height": "three-fifty-height",
+            "title": "-15% DTO. EN TU PACK SAN VALENTÍN",
+            "text": "<p>Utiliza el código:<\/p><p>✦<strong>SANVALENTIN15<\/strong>✦ para regalar PLESH a tu persona favorita. Sea cual sea vuestro tipo de relación &lt;3<\/p><p><br\/><a href=\"\/collections\/productos\" title=\"Productos\"><strong>VER PRODUCTOS<\/strong><\/a><\/p>",
+            "show_newsletter_form": false,
+            "extra_fields": "",
+            "button_text": "",
+            "trigger": "always",
+            "target_url_enabled": false,
+            "target_url": "shopify:\/\/collections\/all",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile",
+            "bg_color": "#0b0b0b",
+            "text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "popup-0",
+        "popup_with_image_DWE7zw",
+        "popup_with_image_fUL8Lc",
+        "popup_with_image_mf9FaY"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "popup"
+  ]
+}

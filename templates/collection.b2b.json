@@ -1,0 +1,296 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "disabled": true,
+      "settings": {
+        "banner_height": "one-third-height",
+        "text_position": "middle-center",
+        "show_image": true,
+        "text_color": "text-dark",
+        "overlay_opacity": 10,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b5058786-b763-4ab8-b375-d96e3dbab791": {
+      "type": "section-grid",
+      "blocks": {
+        "template--21524360200470__b5058786-b763-4ab8-b375-d96e3dbab791-image-1": {
+          "type": "image",
+          "settings": {
+            "width": "100",
+            "image": "shopify:\/\/shop_images\/COUNTDOWN_IMAGE.png",
+            "overlay_opacity": 70,
+            "text_position": "center",
+            "subheading": "Más de 500 puntos de venta en solo 6 meses",
+            "title": "Thank you for joining",
+            "text": "Welcome to the future of Pleasure",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "overlay_text_color": "text-light"
+          }
+        }
+      },
+      "block_order": [
+        "template--21524360200470__b5058786-b763-4ab8-b375-d96e3dbab791-image-1"
+      ],
+      "settings": {
+        "desktop_height": "three-fifty-height",
+        "enable_mobile_height": false,
+        "mobile_height": "four-fifty-height-mobile",
+        "heading_size": 130,
+        "button_1_color": "btn--white",
+        "button_1_style": "btn--text",
+        "button_1_size": "btn--small",
+        "button_2_color": "btn--black",
+        "button_2_style": "btn--text",
+        "button_2_size": "btn--small",
+        "section_bg_color": "",
+        "gradient": "",
+        "enable_slider_mobile": true,
+        "columns_mobile": "1",
+        "overlay_text": true,
+        "width": "wrapper--full-padded",
+        "add_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "8d9a9dcc-b650-4240-8dbe-558bd59ba535": {
+      "type": "section-text",
+      "blocks": {
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Plesh B2B (Business to business)<\/p>",
+            "size": 100,
+            "heading_highlight_type": "italics",
+            "highlight_color": "#d43747",
+            "highlight_text_color": "#000000"
+          }
+        },
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Estas son las tarifas de las que puedes beneficiarte para vender Plesh en tu comercio. <\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-heading-1",
+        "template--21524360200470__8d9a9dcc-b650-4240-8dbe-558bd59ba535-text-1"
+      ],
+      "settings": {
+        "text_position": "left",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--full-padded",
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "disabled": true,
+      "settings": {
+        "subcollections": [
+          "b2b"
+        ],
+        "limit": 8,
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 10,
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-light",
+        "padding_top": 30,
+        "padding_bottom": 14
+      }
+    },
+    "main": {
+      "type": "collection",
+      "disabled": true,
+      "settings": {
+        "show_breadcrumbs": false,
+        "enable_sorting": false,
+        "enable_filters": false,
+        "filters_layout": "open",
+        "show_more": true,
+        "filter_mode": "default",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "section_contact_form_hE3JWP": {
+      "type": "section-contact-form",
+      "blocks": {
+        "heading_XfYDre": {
+          "type": "heading",
+          "settings": {
+            "title": "Contact us"
+          }
+        },
+        "text_pdy33Q": {
+          "type": "text",
+          "settings": {
+            "title": "Name",
+            "required": false
+          }
+        },
+        "text_EHniXQ": {
+          "type": "text",
+          "settings": {
+            "title": "Empresa",
+            "required": false
+          }
+        },
+        "text_FDyahm": {
+          "type": "text",
+          "settings": {
+            "title": "CIF",
+            "required": false
+          }
+        },
+        "telephone_qTFin4": {
+          "type": "telephone",
+          "settings": {
+            "title": "Phone Number",
+            "required": false
+          }
+        },
+        "email_9j3q4W": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "body_miTL4d": {
+          "type": "body",
+          "settings": {
+            "title": "Mensaje",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_XfYDre",
+        "text_pdy33Q",
+        "text_EHniXQ",
+        "text_FDyahm",
+        "telephone_qTFin4",
+        "email_9j3q4W",
+        "body_miTL4d"
+      ],
+      "disabled": true,
+      "name": "Contact form",
+      "settings": {
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_collection_QDUCiA": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "b2b",
+        "products_layout": "grid",
+        "number_of_products": 8,
+        "products_per_row_on_desktop": 4,
+        "columns_mobile": "2",
+        "text_alignment": "text-left",
+        "title": "",
+        "heading_highlight_type": "underline-hand-drawn",
+        "highlight_color": "#000",
+        "highlight_text_color": "",
+        "heading_size": 100,
+        "text": "",
+        "text_size": 100,
+        "button_position": "top",
+        "button_text": "Shop Now",
+        "button_color": "btn--black",
+        "button_style": "btn--text",
+        "button_size": "btn--medium",
+        "bg_color": "",
+        "enable_slider_mobile": true,
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_divider_rr6yak": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_text_ettK7K": {
+      "type": "section-text",
+      "blocks": {
+        "heading_aNMzU8": {
+          "type": "heading",
+          "settings": {
+            "text": "<p>Gastos de envío b2b<\/p>",
+            "size": 100,
+            "heading_highlight_type": "underline-hand-drawn",
+            "highlight_color": "#000",
+            "highlight_text_color": ""
+          }
+        },
+        "text_WYk3CQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>se calculan en tu cesta <br\/><br\/>&lt;49€: 7€<br\/>50€-99€: 6€<br\/>100-149: 4€<br\/>&gt;150€: gratis <\/p>",
+            "size": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_aNMzU8",
+        "text_WYk3CQ"
+      ],
+      "name": "Text",
+      "settings": {
+        "text_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "text_color": "text-dark",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "b5058786-b763-4ab8-b375-d96e3dbab791",
+    "8d9a9dcc-b650-4240-8dbe-558bd59ba535",
+    "subcollections",
+    "main",
+    "section_contact_form_hE3JWP",
+    "section_collection_QDUCiA",
+    "section_divider_rr6yak",
+    "section_text_ettK7K"
+  ]
+}

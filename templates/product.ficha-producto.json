@@ -1,0 +1,248 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "subheading": "breadcrumbs",
+            "title_size": 100,
+            "price_size": 100,
+            "bold_price": false,
+            "padding_bottom": 20
+          }
+        },
+        "judge_me_reviews_preview_badge_qYWfDb": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "enable_full_width": false,
+            "padding_bottom": 40
+          }
+        },
+        "claims_WETeFi": {
+          "type": "claims",
+          "settings": {}
+        },
+        "nutritional_table_8knmVx": {
+          "type": "nutritional-table",
+          "settings": {}
+        },
+        "upsell": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "plesh-mix-pack-20-units"
+            ],
+            "padding_bottom": 20
+          }
+        },
+        "upsell_teTDMC": {
+          "type": "upsell",
+          "settings": {
+            "product_list": [
+              "plesh-trial-pack"
+            ],
+            "padding_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "judge_me_reviews_preview_badge_qYWfDb",
+        "description",
+        "claims_WETeFi",
+        "nutritional_table_8knmVx",
+        "upsell",
+        "upsell_teTDMC"
+      ],
+      "custom_css": [
+        ".product__block.product__price-and-badge {display: none;}"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "carousel",
+        "image_width": "standard",
+        "product_image_aspect_ratio": true,
+        "enable_zoom": true,
+        "enable_video_looping": true,
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "section_product_compare_eUfM9P": {
+      "type": "section-product-compare",
+      "disabled": true,
+      "name": "Product Compare",
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "38ff978b-66eb-4318-9ce0-94db8ff86311": {
+      "type": "section-columns",
+      "blocks": {
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BITES_ACORDEON-05.png",
+            "title": "MILK CHOCO SALTED CARAMEL BITES",
+            "text": "",
+            "button_text": "COMPRAR",
+            "button_link": "shopify:\/\/products\/milk-choco-salted-caramel-bites",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carrusel_producto_BARRITAS-02.png",
+            "title": "MILK CHOCO CARAMEL CRUNCH BAR",
+            "text": "",
+            "button_text": "COMPRAR",
+            "button_link": "shopify:\/\/products\/milk-choco-caramel-crunch-bar",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BITES_ACORDEON_Mesadetrabajo1.png",
+            "title": "DARK CHOCO SEA SALT",
+            "text": "",
+            "button_text": "COMPRAR",
+            "button_link": "shopify:\/\/products\/dark-choco-sea-salt-bites",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        },
+        "text_block_RnA8Wn": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Carrusel_producto_BARRITAS_Mesa_de_trabajo_1.png",
+            "title": "DARK CHOCO ALMOND CRUNCH",
+            "text": "",
+            "button_text": "COMPRAR",
+            "button_link": "shopify:\/\/products\/dark-choco-almond-crunch-bar",
+            "button_color": "btn--black",
+            "button_style": "btn--outline",
+            "button_size": "btn--small",
+            "video_link_popup": "",
+            "video_link_color": "text-dark"
+          }
+        }
+      },
+      "block_order": [
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-0",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-1",
+        "template--18952594129217__38ff978b-66eb-4318-9ce0-94db8ff86311-1683126238ada0cf52-2",
+        "text_block_RnA8Wn"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "columns": 4,
+        "columns_mobile": "2",
+        "show_images": true,
+        "show_borders": false,
+        "equalize_height": true,
+        "desktop_aspect_ratio": 0.8,
+        "mobile_aspect_ratio": 0.8,
+        "heading_size": 120,
+        "text_size": 100,
+        "bg_color": "",
+        "gradient": "",
+        "color_borders": "#000000",
+        "layout_mobile": "carousel",
+        "width": "wrapper",
+        "padding_top": 18,
+        "padding_bottom": 60
+      }
+    },
+    "1746436127ae574ea4": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_UYryC9": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_UYryC9"
+      ],
+      "settings": {
+        "bg_color": "",
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "related": {
+      "type": "related-products",
+      "blocks": {
+        "related": {
+          "type": "related",
+          "settings": {
+            "title": "You May Also Like",
+            "product_recommendations_limit": 4
+          }
+        },
+        "recent": {
+          "type": "recent",
+          "settings": {
+            "title": "Recently viewed",
+            "product_recently_limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related",
+        "recent"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_tabs": true,
+        "columns_mobile": "1",
+        "type_style": "subheading-text",
+        "tab_heading_size": 120,
+        "bg_color": "",
+        "width": "wrapper--full-padded",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_product_compare_eUfM9P",
+    "38ff978b-66eb-4318-9ce0-94db8ff86311",
+    "1746436127ae574ea4",
+    "related"
+  ]
+}

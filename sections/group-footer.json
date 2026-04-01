@@ -1,0 +1,81 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "logo_jJzPHM": {
+          "type": "logo",
+          "settings": {
+            "alignment": "text-left",
+            "image": "shopify:\/\/shop_images\/Plesh_logo_blanco.svg",
+            "logo_width": 200,
+            "show_shop_name": false,
+            "text": "",
+            "column_width": "30"
+          }
+        },
+        "divider_eiK49Q": {
+          "type": "divider",
+          "settings": {
+            "show_border_line": false,
+            "column_width": "33.33"
+          }
+        },
+        "footer-block-4": {
+          "type": "newsletter",
+          "settings": {
+            "alignment": "text-left",
+            "title": "SUSCRÍBETE A NUESTRA NEWSLETTER",
+            "uppercase_heading": true,
+            "heading_size": 200,
+            "text": "<p><\/p><ul><li> Sé el primero en enterarte de todo<\/li><li><strong>15% descuento<\/strong> en tu primera compra (no acumulable con otras ofertas)<\/li><\/ul>",
+            "button_text": "",
+            "button_color": "btn--white",
+            "button_style": "btn--solid",
+            "column_width": "33.33"
+          }
+        },
+        "logo_full_DdcGM7": {
+          "type": "logo_full",
+          "settings": {
+            "alignment": "text-center",
+            "image": "shopify:\/\/shop_images\/banner_web.png",
+            "logo_width": 100,
+            "padding_top": 40
+          }
+        }
+      },
+      "block_order": [
+        "logo_jJzPHM",
+        "divider_eiK49Q",
+        "footer-block-4",
+        "logo_full_DdcGM7"
+      ],
+      "settings": {
+        "show_footer_wave": true,
+        "enable_footer_parallax": true,
+        "increase_border_radius": true,
+        "bottom_bar_alignment": "text-left",
+        "show_social_links": true,
+        "enable_follow_on_shop": false,
+        "show_payment_icons": true,
+        "enable_greyscale": false,
+        "bottom_menu": "footer",
+        "color_text": "#ffffff",
+        "color_bg": "#000000",
+        "color_border": "#ffffff",
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "width": "wrapper",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

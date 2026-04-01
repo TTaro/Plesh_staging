@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "section_image_nEWGHf": {
+      "type": "section-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Plesh_Producto-567.jpg",
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "enable_stretch": true,
+        "image_position": "center",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "contact-form": {
+      "type": "section-contact-form",
+      "blocks": {
+        "contact-form-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Contact us"
+          }
+        },
+        "contact-form-1": {
+          "type": "text",
+          "settings": {
+            "title": "Name",
+            "required": false
+          }
+        },
+        "contact-form-2": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "required": true
+          }
+        },
+        "contact-form-3": {
+          "type": "body",
+          "settings": {
+            "title": "Message",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "contact-form-0",
+        "contact-form-1",
+        "contact-form-2",
+        "contact-form-3"
+      ],
+      "settings": {
+        "button_color": "btn--black",
+        "button_style": "btn--solid",
+        "button_size": "btn--large",
+        "bg_color": "",
+        "gradient": "",
+        "width": "wrapper--narrow",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "59699d9d-c66c-4bd5-a248-64f1b1587cd5": {
+      "type": "section-banner-image",
+      "blocks": {
+        "template--18952593998145__59699d9d-c66c-4bd5-a248-64f1b1587cd5-16831285413c69ee80-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Contact<\/p>",
+            "size": 130,
+            "heading_highlight_type": "italics",
+            "highlight_color": "rgba(0,0,0,0)",
+            "highlight_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18952593998145__59699d9d-c66c-4bd5-a248-64f1b1587cd5-16831285413c69ee80-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "original-height",
+        "enable_mobile_height": false,
+        "mobile_height": "original-height-mobile",
+        "image": "shopify:\/\/shop_images\/Plesh_Producto-567.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/Plesh_Producto-567.jpg",
+        "overlay_opacity": 10,
+        "transition": "zoom-out",
+        "enable_zoom_animation": true,
+        "enable_card_scrolling": true,
+        "increase_border_radius": true,
+        "text_width": "narrow",
+        "text_position": "center",
+        "text_alignment": "text-center",
+        "text_color": "text-light",
+        "width": "wrapper--full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        ".wrapper {max-width: calc(65% + var(--gutter) * 2);}"
+      ],
+      "settings": {
+        "show_page_title": false,
+        "bg_color": "",
+        "gradient": "",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "section_image_nEWGHf",
+    "contact-form",
+    "59699d9d-c66c-4bd5-a248-64f1b1587cd5",
+    "main"
+  ]
+}
