@@ -174,13 +174,6 @@
   assign all_active_tags_count = 0
 
   capture sort_param
-    if collection.sort_by != collection.default_sort_by
-      assign sort_parameter = '/?'
-      if collection.current_type or collection.current_vendor
-        assign sort_parameter = '&'
-      endif
-      echo sort_parameter | append: 'sort_by=' | append: collection.sort_by
-    endif
   endcapture
 
   assign label_text_caps = false
@@ -661,7 +654,7 @@
 {%- endcapture -%}
 
 {%- if enable_sorting or enable_filters -%}
-  <div class="collection__filters" data-collection-filters>
+  <div class="collection__filters" data-collection-filters data-s="{{ collection.sort_by }}" data-s-d="{{ collection.default_sort_by }}">
     <div class="collection__filters-wrapper" data-collection-filters-wrapper>
       <div class="collection__filters-list">
         <div class="collection__filters-list__inner" data-collection-filters-list>
