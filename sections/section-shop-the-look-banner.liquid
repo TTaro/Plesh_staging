@@ -109,7 +109,7 @@
       assign product = all_products[block.settings.product]
       if product != blank
         assign hotspot_title = product.title | strip_html | escape
-        assign hotspot_url = product.url | within: collection
+        assign hotspot_url = product.url
       else
         assign hotspot_title = 'homepage.onboarding.product_title' | t
         assign hotspot_url = '#!'
@@ -1024,3 +1024,4 @@
   }
 }
 {% endschema %}
+

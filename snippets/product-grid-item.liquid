@@ -157,7 +157,7 @@
 -%}
 
 {%- capture product_title -%}
-  <a class="product-grid-item__title {{ heading_style }}" href="{{ product.url | within: collection }}" aria-label="{{ product.title | strip_html | escape }}"{% if index > 1 %} tabindex="-1"{% endif %} data-grid-link>
+  <a class="product-grid-item__title {{ heading_style }}" href="{{ product.url }}" aria-label="{{ product.title | strip_html | escape }}"{% if index > 1 %} tabindex="-1"{% endif %} data-grid-link>
     {{- product.title | strip_html | escape -}}
   </a>
 {%- endcapture -%}
@@ -168,7 +168,7 @@
 
 {%- if product.template_suffix != 'ficha-producto' -%}
   {%- capture product_info_price -%}
-    <a class="product-grid-item__price price{% if settings.bold_price %} price--bold{% endif %}" href="{{ product.url | within: collection }}"{% if index > 1 %} tabindex="-1"{% endif %} data-grid-link>
+    <a class="product-grid-item__price price{% if settings.bold_price %} price--bold{% endif %}" href="{{ product.url }}"{% if index > 1 %} tabindex="-1"{% endif %} data-grid-link>
       {%- render 'product-price', product: product -%}
     </a>
   {%- endcapture -%}
@@ -260,7 +260,7 @@
     -%}
     <div class="{{ image_container_class }}" style="--aspect-ratio: {{ image_aspect_ratio }};">
       <a class="product__media__holder"
-        href="{{ product.url | within: collection }}"
+        href="{{ product.url }}"
         aria-label="{{ product.title | strip_html | escape }}"
         data-grid-link
         {% if index > 1 %} tabindex="-1"{% endif %} >
@@ -546,7 +546,7 @@
             {%- endform -%}
           {%- else -%}
             <a class="btn-quick-buy {{ settings.button_style }}"
-              href="{{ product.url | within: collection }}"
+              href="{{ product.url }}"
               aria-label="{{ 'products.product.quick_view' | t }}"
               data-handle="{{ product.handle }}"
               data-button-quick-view
@@ -671,3 +671,4 @@
     {%- endif -%}
   </div>
 </div>
+
